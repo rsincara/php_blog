@@ -1639,3 +1639,8 @@ p.go-back-home a:hover {
     color: #fff;
     border-color: #00BFF3;
 }
+
+.site-login {
+    max-width: 500px;
+    margin: 0 auto 90px;
+}
